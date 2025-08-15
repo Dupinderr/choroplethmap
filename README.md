@@ -1,15 +1,31 @@
-# 🇮🇳 India Choropleth Map App
+# Choropleth Map of India – Population & Income per Capita
 
-This Streamlit web app displays an interactive choropleth map of Indian states based on a chosen metric (like Population).
+## 📌 Project Overview
+This project is an **interactive Choropleth Map of India** built with **Python** and **Streamlit**.  
+It visualizes **two datasets**:
+- **Population** of each state  
+- **Income per capita** for each state  
 
-## Features
+The map provides a visual way to compare state-wise statistics and analyze patterns.
 
-- Interactive Plotly choropleth map
-- Dynamic selection of metric (e.g., Population)
-- Clean and responsive layout
-- Raw data display toggle
+---
 
-## Installation
+## ✨ Features
+- 📊 **Two Dataset Views** – Toggle between **Population** and **Income per Capita**
+- 🗺️ **GeoJSON Integration** – Accurate state boundaries using *india-composite.geojson*
+- 🎨 **Dynamic Color Scaling** – Auto-adjusts based on selected dataset
+- 📱 **Responsive Design** – Works on desktop and mobile browsers
+- ⚡ **Interactive UI** – Built using **Streamlit** for fast deployment
 
-1. Clone or download this repo
-2. Install dependencies:
+---
+
+## 🛠️ Tech Stack
+- **Python** – Core programming language  
+- **Streamlit** – Interactive web app framework  
+- **Pandas** – Data handling and processing  
+- **Plotly** – Visualization library for choropleth maps  
+- **GeoPandas** – GeoJSON and spatial data handling  
+
+---
+
+## 📂 Project Structure
