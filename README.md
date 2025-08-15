@@ -27,5 +27,3 @@ The map provides a visual way to compare state-wise statistics and analyze patte
 - **GeoPandas** – GeoJSON and spatial data handling  
 
 ---
-
-## 📂 Project Structure
