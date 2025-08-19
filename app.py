@@ -6,7 +6,7 @@ import json
 st.set_page_config(layout="wide", page_title="India Choropleth Map")
 
 # App Title
-st.title("🗺️ India State-wise Population Choropleth Map")
+st.title("🗺️ India State-wise Choropleth Map")
 
 # Step 1: Load GeoJSON file
 with open("india-simple.geojson", "r", encoding="utf-8") as file:
